@@ -7,7 +7,7 @@ sap.ui.controller("ui5_test.ui5_test", {
 */
 <<<<<<< HEAD
 /*zzzz*/
-=======
+=======fffff
 	sssss
 	
 >>>>>>> branch 'master' of https://github.com/sanatmoahapatra/sanat.git
