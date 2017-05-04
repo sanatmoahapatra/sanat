@@ -5,7 +5,12 @@ sap.ui.controller("ui5_test.ui5_test", {
 * Can be used to modify the View before it is displayed, to bind event handlers and do other one-time initialization.
 * @memberOf ui5_test.ui5_test
 */
+<<<<<<< HEAD
 /*zzzz*/
+=======
+	sssss
+	
+>>>>>>> branch 'master' of https://github.com/sanatmoahapatra/sanat.git
 	
 //	onInit: function() {
 //
